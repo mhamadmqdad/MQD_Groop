@@ -1,0 +1,103 @@
+.email{
+width: 400px;
+height: 50px;
+background: linear-gradient(160deg,blue,darkred);
+padding-left: 10px;
+margin-left: 30px;
+text-align: left;
+border: none;
+border-bottom: 3px solid black;
+font-weight: 600;
+font-size: 30px;
+
+}
+.email:hover{
+width: 400px;
+height: 50px;
+background: linear-gradient(160deg,blue,darkred);
+padding-left: 10px;
+margin-left: 30px;
+text-align: left;
+border: none;
+border-bottom: 3px solid red;
+font-weight: 600;
+font-size: 30px;
+
+}
+.pas{
+width: 400px;
+height: 50px;
+background: linear-gradient(160deg,blue,darkred);
+padding-left: 10px;
+margin-left: 30px;
+text-align: left;
+border: none;
+border-bottom: 3px solid black;
+font-weight: 600;
+font-size: 30px;
+
+}
+.pas:hover{
+width: 400px;
+height: 50px;
+background: linear-gradient(160deg,blue,darkred);
+padding-left: 10px;
+margin-left: 30px;
+text-align: left;
+border: none;
+border-bottom: 3px solid red;
+font-weight: 600;
+font-size: 30px;
+
+}
+form{
+width: 500px;
+height: 400px;
+background-color: cyan;
+border: red;
+padding: 20px;
+margin-left: 400px;
+border-left: 3px solid yellow;
+margin-top: 90px;
+}
+.submit{
+width: 120px;
+height: 60px;
+background-color: azure;
+margin-left: 40px;
+font-size: 26px;
+color: white;
+font-weight: 600;
+background: linear-gradient(90deg,red,blue);
+border: none;
+
+}
+.submit:hover{
+width: 120px;
+height: 60px;
+background-color: black;
+margin-left: 40px;
+font-size: 26px;
+color: white;
+font-weight: 600;
+background: linear-gradient(90deg,red,blue);
+box-shadow: 0 0 15px blue;
+}
+a
+{
+	margin-left: 40px;
+	font-size: 28px;
+}
+img
+{
+	width: 180px;
+	height: 180px;
+	border-radius: 50%;
+	background-color: darkcyan;
+	margin-left:160px ;
+	margin-top: -60px;
+	background-size: cover;
+	margin-bottom: 30px;
+	border-top: 3px solid cyan;
+	box-shadow: 0 0 20px cyan;
+}
